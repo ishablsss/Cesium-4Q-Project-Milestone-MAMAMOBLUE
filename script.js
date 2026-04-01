@@ -55,7 +55,7 @@ function playAgain() {
   let final = ans.trim().toLowerCase(); 
   let message = ""; 
   if (final == "yes"){ 
-    window.location.href = "home.html"; 
+    window.location.href = "index.html"; 
   } 
   else if (final == "no") { 
     message = "oks"; 
